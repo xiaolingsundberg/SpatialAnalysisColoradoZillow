@@ -2,3 +2,18 @@
 .RData
 .Rhistory
 Rplots.pdf
+
+/Assignment 1/
+/Assignment 3/
+/Assignment 4/
+
+/SemesterProject/*
+!/SemesterProject/CODE/
+!/SemesterProject/CODE/**
+/SemesterProject/CODE/.DS_Store
+/SemesterProject/CODE/.RData
+/SemesterProject/CODE/.Rhistory
+!/SemesterProject/WRITE UP/
+/SemesterProject/WRITE UP/**
+!/SemesterProject/WRITE UP/STA6709_Revised_Write_Up.pdf
+!/SemesterProject/WRITE UP/STA6709_Colorado_Zillow_Spatial_Analysis_Presentation.pptx
